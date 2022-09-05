@@ -21,3 +21,4 @@ Process:
 - Half of the big picture was getting covered by 2 smaller pictures, so I had to divide them by classifying them as div and then applying flex on them.
 - Then I added a section for socials and its links and then finally created the footer.
 - Lastly, I decided on the colors and used css to color header/footer and then the background where the combination looks nice. I tried numerous colors until I got fixed on these.
+- I also changed the text font in body in the end.
