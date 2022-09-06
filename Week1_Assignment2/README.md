@@ -3,6 +3,8 @@
 ### Make a Webpage on a Past Project
 #### People Counter Webpage
 
+[Link to Website](https://basil-ahmed.github.io/ConnectionsLab/Week1_Assignment2/First_Assignment/)
+
 Find the wireframes attached below.
 
 [People Counter 1.pdf](https://github.com/basil-ahmed/ConnectionsLab/files/9483384/People.Counter.1.pdf)
