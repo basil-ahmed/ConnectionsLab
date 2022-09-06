@@ -1,6 +1,6 @@
-# Communications Lab
-## Week 1 Assignment 2
-### Make a Webpage on a Past Project
+# New York University Abu Dhabi
+## Connections Lab
+### Week 1 Assignment 2
 #### People Counter Webpage
 
 [Link to Website](https://basil-ahmed.github.io/ConnectionsLab/Week1_Assignment2/First_Assignment/)
