@@ -3,6 +3,8 @@
 ### Webpage with JavaScript Interactions
 #### NYUAD Assignments Tracker
 
+[Link to Website](https://basil-ahmed.github.io/ConnectionsLab/JavaScript_Interactions/)
+
 ##### Progress:
 
 - I started with making the 3 blank files and then linking each of them to the index.html file.
