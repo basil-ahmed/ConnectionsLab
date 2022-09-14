@@ -5,6 +5,8 @@
 
 [Link to Website](https://basil-ahmed.github.io/ConnectionsLab/JavaScript_Interactions/)
 
+[Wireframe](https://github.com/basil-ahmed/ConnectionsLab/blob/main/JavaScript_Interactions/Assignment%20Tracker.pdf)
+
 ##### Progress:
 
 - I started with making the 3 blank files and then linking each of them to the index.html file.
