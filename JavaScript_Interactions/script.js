@@ -11,7 +11,6 @@ const setBg = () => {
 window.addEventListener('load', () => {
 
     let submitButton = document.getElementById("submit_button");
-    //let inputBox = document.getElementById("input_box");
 
     //add item to list when entered in the input box
     submitButton.addEventListener('click', (e) => {
@@ -47,11 +46,11 @@ window.addEventListener('load', () => {
 
         let item = document.getElementById(e.target.dataset.id);
         item.classList.add("list__item--done")
+        document.body.style.background = 'green'; //Color changes to green when pressed Done
 
         })
 
-        //document.body.style.background = '#fa8073';
-        setBg();
+        document.body.style.background = 'red'; //Color changes to red when a new assignment is added
 
     });
 
