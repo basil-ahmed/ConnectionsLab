@@ -15,7 +15,9 @@
 - Figuring that out took a while, however, I created that form.
 - Next step was to show the inputs on the screen/html output. I created an empty list in HTMl file and then in JavaScript created the contents of what needs to go there.
 - Every List Item, List content, and the done button was created as new assignments are added.
+- The Background also changes to Red when an assignment is added (to portray danger)!
 - Then, I added a feature where when Done button is pressed, the assignment is cancelled (With a line accross it).
+- The Background also changes to Green when an assignment is checked off (to portray success)!
 - This was done by changing the class of the list item when pressed done, and in CSS that class styling was done in a way that there is a line accross the text.
 - Last, but not the least, comes CSS. I created a header, then styled the whole webpage.
 - However, I realized that it was only one interaction (Adding elements into the list). I wanted to make something creative.
