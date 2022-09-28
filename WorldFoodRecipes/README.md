@@ -2,6 +2,8 @@
 ## Connections Lab
 ### Project 1: World Food Recipes
 
+[Link to Wesbite](https://basil-ahmed.github.io/ConnectionsLab/WorldFoodRecipes/)
+
 #### Initial Idea:
 
 My idea is to create a webpage on food recipes that come from all around the world. The webpage will be in a grid format where only the food of the picture will be displayed along with the dish’s name. When you hover over the image, it will flip and show you the recipe along with a link to the recipe’s youtube link. I will also place a search bar on the website and when a user searches something, from the grid, only those images/blocks will be left that match the search bar content. I will be using an open source API based on meals where I will get all the information I need. I am also thinking of creating another page using p5.js where there will be a map shown and when you go to a certain region, it will show you the meals based on that region. I might also divide the meals based on regions, or other categories, but for now, that is not part of the plan since I am trying to give as much accessibility as I can, especially by developing a search feature.
