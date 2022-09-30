@@ -82,7 +82,12 @@ My idea is to create a webpage on food recipes that come from all around the wor
 #### Learnings:
 - I learned how to fetch and use the JSON file data from anywhere.
 - I learned how to create elements with JavaScript and use them to display data that I picked up from the internet. In other words, add data as the website is working and not pre-loaded (which is extremely cool).
-- Lastly, I learned how to create an 'a' tag with JavaScript alone (I was confused on how to actually add the link I have to go to and not only the 'innerHTML').
+- I learned how to create an 'a' tag with JavaScript alone (I was confused on how to actually add the link I have to go to and not only the 'innerHTML').
+- I also learned how to add a URL in the innerHTML from a variable since the string was not available the URL was only in the API.
+- I learned how to make the website in a grid format.
+- I learned how to use different js libraries majorly leaflet.
+- And in turn learned to work with maps in JavaScript and HTML.
+- Learned a lot of problem solving and ways to get what I wanted done, even if that means the solution is totally different than what one would normally think.
 
 #### References:
 
