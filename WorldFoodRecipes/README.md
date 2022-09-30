@@ -17,22 +17,34 @@ My idea is to create a webpage on food recipes that come from all around the wor
 - The upcoming step is also dividing the website into a grid using html and css.
 - I made the header and used an "active" id to highlight the tab that the website is on.
 - I also made a search bar and styled the whole header in a way that it looks visually appealing.
+
+<img width="1439" alt="Screen Shot 2022-09-30 at 6 20 30 PM" src="https://user-images.githubusercontent.com/90772853/193294799-bb6083f1-4603-4a66-85c1-6ad5b35aca6f.png">
+
 - Then I made the grid with 3 columns so 3 meals come in one row. I took the background of each box as the image from the mealDB API and implemented in the HTML through JavaScript.
 - I also styled the names of the meals as well.
 - Initially, in the HTML, I created an empty div but using JavaScript I added and created elements by using a for loop that goes through every meal and creates the relevant HTML elements for it.
 - When you hover over a specific meal, it turns darker and when you click it, it takes to its' recipe's youtube link which was also gotten from the API.
 - Lastly, I made the page responsive for both mobile phones, tablets, and even smaller window sizes.
 - At this point, my home page was basically finished. However, I had to add the Search bar functionality. I used JavaScript and when you put in text in the search bar, it will search for the elements and if any of the meal titles contain that text, they are going to be shown in the same grid way.
+
+<img width="1440" alt="Screen Shot 2022-09-30 at 6 20 08 PM" src="https://user-images.githubusercontent.com/90772853/193294937-25464345-9977-420f-9a7c-c2d1e2b4f1fe.png">
+
 - Now, the next step was to make the other page "By Region".
 - I had to include a map on the webpage. The options I found, after a lot of research, were Mapbox, Mappa, Leaflet.
 - After a lot of trial and error, and learning these js libraries, I decided on Leaflet. 
 - I put in markers in the countries that the meals were from.
 - The next challenge was to make the markers interactive. I tried a lot of things for so long, but at last I came up with a simple solution: just adding an "addEventListener" method directly to the marker variable.
+
+<img width="1438" alt="Screen Shot 2022-09-30 at 6 42 47 PM" src="https://user-images.githubusercontent.com/90772853/193295376-823133a5-e894-439f-98cb-3c8b5d58db8a.png">
+
 - The next step was to decide and figure out how to show the meals from that specific region.
 - I did that by going through the API again and checking if the region matches with what the user wants.
 - I then showed those meals in the same grid format.
 - Again the challenge here was when you wanted to check another region after one, it was not clearing the already existing meals there.
 - The last thing I did was to figure that out and then I was officialy done!
+
+<img width="1439" alt="Screen Shot 2022-09-30 at 6 43 03 PM" src="https://user-images.githubusercontent.com/90772853/193295430-0b8ef96d-cf44-4e30-8be9-d7d34cdf46e0.png">
+
 
 #### Challenges:
 
