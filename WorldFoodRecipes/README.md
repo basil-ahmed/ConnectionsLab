@@ -45,6 +45,12 @@ My idea is to create a webpage on food recipes that come from all around the wor
 
 <img width="1439" alt="Screen Shot 2022-09-30 at 6 43 03 PM" src="https://user-images.githubusercontent.com/90772853/193295430-0b8ef96d-cf44-4e30-8be9-d7d34cdf46e0.png">
 
+- After our last presentation, I got extremely good suggestions and betterments for the website.
+- One of them was that the name of the meal is unclear in some images. 
+- The solution I came up with was adding a black shadow to the white text to make it more visible.
+- It worked!
+
+<img width="483" alt="Screen Shot 2022-09-30 at 6 50 06 PM" src="https://user-images.githubusercontent.com/90772853/193298228-faa61f38-79f4-42f2-b7d8-650e0537c351.png">
 
 #### Challenges:
 
