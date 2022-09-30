@@ -93,7 +93,7 @@ body {
 
 @media screen and (max-width: 900px) and (min-width: 600px) {
   .portfolio-items-wrapper{
-    grid-template-columns: 1fr 1fr; /*Making the grid columns to 2 (to make the webpage more responsive)*/
+    grid-template-columns: 1fr 1fr; /*Making the grid columns to 2 (to make the webpage more responsive) if it's between 600-900 px*/
   }
 }
 
@@ -106,7 +106,7 @@ body {
 }
 
 .portfolio-img-background:hover {
-  filter: brightness(70%);
+  filter: brightness(60%);
 }
   
 .image-text-wrapper{

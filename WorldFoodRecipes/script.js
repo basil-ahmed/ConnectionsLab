@@ -22,6 +22,7 @@ window.addEventListener('load', function() {
         text.style.fontSize = '40px';
         text.style.color = 'white';
         text.style.fontWeight = '900';
+        text.style.textShadow = '2px 2px black'
         let parent = this.document.getElementById('parent');
         parent.appendChild(a);
         a.appendChild(bg);

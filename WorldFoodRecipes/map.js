@@ -51,6 +51,7 @@ croatia.addEventListener('click', ()=> {
             text.style.fontSize = '40px';
             text.style.color = 'white';
             text.style.fontWeight = '900';
+            text.style.textShadow = '2px 2px black';
             let parent = this.document.getElementById('parent');
             // let heading = this.document.getElementById('heading');
             // heading.appendChild(h2);
@@ -92,6 +93,7 @@ turkey.addEventListener('click', ()=> {
             text.style.fontSize = '40px';
             text.style.color = 'white';
             text.style.fontWeight = '900';
+            text.style.textShadow = '2px 2px black';
             let parent = this.document.getElementById('parent');
             parent.appendChild(a);
             a.appendChild(bg);
@@ -131,6 +133,7 @@ egypt.addEventListener('click', ()=> {
             text.style.fontSize = '40px';
             text.style.color = 'white';
             text.style.fontWeight = '900';
+            text.style.textShadow = '2px 2px black';
             let parent = this.document.getElementById('parent');
             parent.appendChild(a);
             a.appendChild(bg);
@@ -170,6 +173,7 @@ pakistan.addEventListener('click', ()=> {
             text.style.fontSize = '40px';
             text.style.color = 'white';
             text.style.fontWeight = '900';
+            text.style.textShadow = '2px 2px black';
             let parent = this.document.getElementById('parent');
             parent.appendChild(a);
             a.appendChild(bg);
@@ -209,6 +213,7 @@ canada.addEventListener('click', ()=> {
             text.style.fontSize = '40px';
             text.style.color = 'white';
             text.style.fontWeight = '900';
+            text.style.textShadow = '2px 2px black';
             let parent = this.document.getElementById('parent');
             parent.appendChild(a);
             a.appendChild(bg);
@@ -248,6 +253,7 @@ italy.addEventListener('click', ()=> {
             text.style.fontSize = '40px';
             text.style.color = 'white';
             text.style.fontWeight = '900';
+            text.style.textShadow = '2px 2px black';
             let parent = this.document.getElementById('parent');
             parent.appendChild(a);
             a.appendChild(bg);
@@ -287,6 +293,7 @@ china.addEventListener('click', ()=> {
             text.style.fontSize = '40px';
             text.style.color = 'white';
             text.style.fontWeight = '900';
+            text.style.textShadow = '2px 2px black';
             let parent = this.document.getElementById('parent');
             parent.appendChild(a);
             a.appendChild(bg);
@@ -326,6 +333,7 @@ tunisia.addEventListener('click', ()=> {
             text.style.fontSize = '40px';
             text.style.color = 'white';
             text.style.fontWeight = '900';
+            text.style.textShadow = '2px 2px black';
             let parent = this.document.getElementById('parent');
             parent.appendChild(a);
             a.appendChild(bg);
@@ -365,6 +373,7 @@ america.addEventListener('click', ()=> {
             text.style.fontSize = '40px';
             text.style.color = 'white';
             text.style.fontWeight = '900';
+            text.style.textShadow = '2px 2px black';
             let parent = this.document.getElementById('parent');
             parent.appendChild(a);
             a.appendChild(bg);
@@ -404,6 +413,7 @@ netherland.addEventListener('click', ()=> {
             text.style.fontSize = '40px';
             text.style.color = 'white';
             text.style.fontWeight = '900';
+            text.style.textShadow = '2px 2px black';
             let parent = this.document.getElementById('parent');
             parent.appendChild(a);
             a.appendChild(bg);
@@ -443,6 +453,7 @@ uk.addEventListener('click', ()=> {
             text.style.fontSize = '40px';
             text.style.color = 'white';
             text.style.fontWeight = '900';
+            text.style.textShadow = '2px 2px black';
             let parent = this.document.getElementById('parent');
             parent.appendChild(a);
             a.appendChild(bg);
@@ -482,6 +493,7 @@ france.addEventListener('click', ()=> {
             text.style.fontSize = '40px';
             text.style.color = 'white';
             text.style.fontWeight = '900';
+            text.style.textShadow = '2px 2px black';
             let parent = this.document.getElementById('parent');
             parent.appendChild(a);
             a.appendChild(bg);
@@ -521,6 +533,7 @@ greece.addEventListener('click', ()=> {
             text.style.fontSize = '40px';
             text.style.color = 'white';
             text.style.fontWeight = '900';
+            text.style.textShadow = '2px 2px black';
             let parent = this.document.getElementById('parent');
             parent.appendChild(a);
             a.appendChild(bg);
@@ -560,6 +573,7 @@ japan.addEventListener('click', ()=> {
             text.style.fontSize = '40px';
             text.style.color = 'white';
             text.style.fontWeight = '900';
+            text.style.textShadow = '2px 2px black';
             let parent = this.document.getElementById('parent');
             parent.appendChild(a);
             a.appendChild(bg);
