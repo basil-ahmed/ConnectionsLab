@@ -4,6 +4,14 @@
 
 [Link to Wesbite](https://basil-ahmed.github.io/ConnectionsLab/WorldFoodRecipes/)
 
+#### Motivation: 
+
+There is no website where you can search for food by regions, this website is going to separate meals by their regions and will be easily accessible to users.
+
+#### Audience:
+
+University students, Students living away from home, Housewives, basically everyone who likes to cook (occasionally or regularly).
+
 #### Initial Idea:
 
 My idea is to create a webpage on food recipes that come from all around the world. The webpage will be in a grid format where only the food of the picture will be displayed along with the dish’s name. When you hover over the image, it will flip and show you the recipe along with a link to the recipe’s youtube link. I will also place a search bar on the website and when a user searches something, from the grid, only those images/blocks will be left that match the search bar content. I will be using an open source API based on meals where I will get all the information I need. I am also thinking of creating another page using p5.js where there will be a map shown and when you go to a certain region, it will show you the meals based on that region. I might also divide the meals based on regions, or other categories, but for now, that is not part of the plan since I am trying to give as much accessibility as I can, especially by developing a search feature.
@@ -52,8 +60,24 @@ My idea is to create a webpage on food recipes that come from all around the wor
 
 <img width="483" alt="Screen Shot 2022-09-30 at 6 50 06 PM" src="https://user-images.githubusercontent.com/90772853/193298228-faa61f38-79f4-42f2-b7d8-650e0537c351.png">
 
+#### Responsiveness:
+
+##### Ipad Air:
+
+![basil-ahmed github io_ConnectionsLab_WorldFoodRecipes_(iPad Air)](https://user-images.githubusercontent.com/90772853/193300799-02c16170-f2b2-46c5-9516-d520326f2468.png)
+
+##### Iphone 12 Pro:
+
+![basil-ahmed github io_ConnectionsLab_WorldFoodRecipes_(iPhone 12 Pro)](https://user-images.githubusercontent.com/90772853/193300826-fcb38509-8f62-451f-8e6d-bc9cec38a9fb.png)
+
 #### Challenges:
 
+- Making the search bar that fully works and showing only the meals that match my condition and removing others was an extremely hard challenge which took a very long time to fiigure out.
+- I was not sure if the website would look good in a grid format since the pictures were not mine, I was just taking them from an API, but it turned out to look great!
+- As a whole, making a grid website visually appealing was a difficult task.
+- Making sure website was as responsive as possible.
+- Implementing the map and all the specific functionalities that I only wanted was the hardest task I came across.
+- Removing the dishes of the region clicked when you click another region was extremely time-consuming. Even though, the solution was a simple 2 minute thing, but getting there took very long.
 
 #### Learnings:
 - I learned how to fetch and use the JSON file data from anywhere.
@@ -61,3 +85,11 @@ My idea is to create a webpage on food recipes that come from all around the wor
 - Lastly, I learned how to create an 'a' tag with JavaScript alone (I was confused on how to actually add the link I have to go to and not only the 'innerHTML').
 
 #### References:
+
+[The MealDB API](https://www.themealdb.com/api.php)
+
+[LeafLet Tutorials](https://leafletjs.com/examples/quick-start/)
+
+[W3Schools](https://www.w3schools.com/)
+
+[Coordinates Converter](https://coordinates-converter.com/)
