@@ -34,9 +34,12 @@ My idea is to create a webpage on food recipes that come from all around the wor
 - Again the challenge here was when you wanted to check another region after one, it was not clearing the already existing meals there.
 - The last thing I did was to figure that out and then I was officialy done!
 
+#### Challenges:
+
+
 #### Learnings:
 - I learned how to fetch and use the JSON file data from anywhere.
 - I learned how to create elements with JavaScript and use them to display data that I picked up from the internet. In other words, add data as the website is working and not pre-loaded (which is extremely cool).
 - Lastly, I learned how to create an 'a' tag with JavaScript alone (I was confused on how to actually add the link I have to go to and not only the 'innerHTML').
 
-#### 
+#### References:
